@@ -6,7 +6,7 @@ Welcome to my **Candle Store Web Project** — a modern, elegant, and responsive
 
 ## 🖼️ Preview
 
-![Candle Store Preview](https://raw.githubusercontent.com/Abdullh01/abdullah01.github.io/main/اسم_صورتك.jpeg)
+![Candle Store Preview](https://raw.githubusercontent.com/Abdullh01/abdullah01.github.io/main/candles.jpeg)
 
 ---
 
