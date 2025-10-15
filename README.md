@@ -1,32 +1,42 @@
-# abdullh01.github.io
-# 🕯️ Candle Store Web Project  
+# 🕯️ Candle Store Website
 
-Welcome to **Abdullh01’s Candle Store** — a modern and responsive website project built using **HTML, CSS, and JavaScript**.  
-
-This repository showcases:
-- 🧠 Clean and efficient front-end code  
-- 🎨 Modern and elegant design  
-- 📱 Fully responsive layout for mobile and desktop  
-- ⚙️ Smooth animations and transitions  
+Welcome to my **Candle Store Web Project** — a modern, elegant, and responsive website that showcases a luxury candle shop experience built entirely with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📸 Preview  
-![Candle Store Preview](![Candle Store Preview](https://raw.githubusercontent.com/Abdullh01/abdullah01.github.io/adc27adaa4f8cc1ec3f0db3b2e265353bef92024/اسم_الصورة.jpeg)
+## 🖼️ Preview
+
+![Candle Store Preview](https://raw.githubusercontent.com/Abdullh01/abdullah01.github.io/main/اسم_صورتك.jpeg)
 
 ---
 
-## 🧩 Technologies Used  
+## 💡 About the Project
+
+This project demonstrates my full-stack web development skills with:
+- Responsive design suitable for all screen sizes 📱💻  
+- Clean and modern dark theme 🖤  
+- Smooth animations and elegant typography ✨  
+- Product sections with realistic candle visuals 🕯️  
+
+Built to highlight front-end aesthetics and technical precision — ready for deployment or integration into larger projects.
+
+---
+
+## ⚙️ Technologies Used
+
 - HTML5  
-- CSS3 (Flexbox + Grid)  
-- JavaScript (Vanilla JS)
+- CSS3 / Flexbox / Grid  
+- JavaScript (Vanilla JS)  
+- Git & GitHub  
 
 ---
 
-## 📬 Contact  
-📧 Email: **bm5330814@gmail.com**  
-👤 GitHub: [Abdullh01](https://github.com/Abdullh01)
+## 📬 Contact
+
+👤 **Abdullh01**  
+📧 bm5330814@gmail.com  
+💻 [GitHub Profile](https://github.com/Abdullh01)
 
 ---
 
-⭐ Feel free to explore, fork, and star this project!
+© 2025 Candle Store Project — All rights reserved.
