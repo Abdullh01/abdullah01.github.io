@@ -12,7 +12,7 @@ This repository showcases:
 ---
 
 ## 📸 Preview  
-![Candle Store Preview](https://via.placeholder.com/800x400.png?text=Candle+Store+Preview)
+![Candle Store Preview](![Candle Store Preview](https://raw.githubusercontent.com/Abdullh01/abdullah01.github.io/adc27adaa4f8cc1ec3f0db3b2e265353bef92024/اسم_الصورة.jpeg)
 
 ---
 
